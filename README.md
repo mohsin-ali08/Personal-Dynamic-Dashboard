@@ -21,7 +21,7 @@ It also includes Firebase for user authentication, data storage, and real-time u
 
 - ## 📸 Screenshots
 ### Dashboard Home
-![Dashboard Screenshot](https://your-screenshot-link.com)
+![Dashboard Screenshot](https://github.com/mohsin-ali08/Personal-Dynamic-Dashboard/blob/main/public/Dashboardscreenshot.png)
 
 
 
