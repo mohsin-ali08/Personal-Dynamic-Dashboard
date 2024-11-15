@@ -5,15 +5,15 @@ import { getAuth} from 'firebase/auth';
 import { getStorage } from "firebase/storage";
 
 
-const firebaseConfig = {
-  apiKey: "",
-  authDomain: "",
-  projectId: "",
-  storageBucket: "",
-  messagingSenderId: "",
-  appId: "",
-  measurementId: ""
-};
+// const firebaseConfig = {
+//   apiKey: "",
+//   authDomain: "",
+//   projectId: "",
+//   storageBucket: "",
+//   messagingSenderId: "",
+//   appId: "",
+//   measurementId: ""
+// };
 
 // Initialize Firebase app
 const app = !getApps().length ? initializeApp(firebaseConfig) : getApp();
